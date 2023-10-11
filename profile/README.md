@@ -11,6 +11,10 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+## Discord
+
+To be able to deeply use this website and interacting with it more, i'd suggest to join our [Discord](https://discord.gg/r7jqfbmcvf).
+
 ## About
 
 Juice WRLD Space is a community-driven project dedicated to celebrating the life and music of the talented artist Juice WRLD. Our goal is to provide a central hub for fans to stay updated with the latest developments, discover new music, and connect with other Juice WRLD enthusiasts.
